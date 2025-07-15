@@ -36,7 +36,7 @@ SESSION_COOKIES = {
 }
 
 # Common headers
-COMMON_HEADERS = {
+COMMON_HEADERS = {}
     'accept': 'application/json, text/plain, */*',
     'accept-language': 'en-US,en;q=0.9,ms;q=0.8',
     'priority': 'u=1, i',
